@@ -13,10 +13,10 @@ The normal version of the puzzle gives these two hints:
     the fourth is half the first.
 
 
-    "The first is larger than the second;
-    the second twice the third;
-    the third smaller than the fourth;
-    the fourth is half the first.
+    "Four of the numbers are not repeated
+    Three are not in the top row
+    Two are not in the right row
+    One of the numbers is the final key"
 
 Keypad looks like this, and is not a "normal" modern keypad with a 0 and two extra function buttons. It only contains the number 1 - 9.
 
